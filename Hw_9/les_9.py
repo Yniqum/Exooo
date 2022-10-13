@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-
 # Task (1); (2); (3).
 
 """This module contains class with normal method, static and class methods"""
